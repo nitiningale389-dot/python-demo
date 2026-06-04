@@ -38,15 +38,15 @@ This project is a simple interactive Python program that collects basic personal
 ```text
 Welcome to the interactive Personal Data Collector!
 
-Please enter your name: John
+Please enter your name: Nitin
 Please enter your age: 20
-Please enter your height in meters: 1.75
+Please enter your height in meters: 2.75
 Please enter your favourite number: 7
 
 Thank you! Here is the information we collected:
-Name: John
+Name: Nitin
 Age: 20
-Height: 1.75
+Height: 2.75
 Favourite Number: 7
 
 Your birth year is approximately: 2006
